@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 😄 Pronouns: he/him, they/them
+- 💬 Ask me about Love Live!, BanG Dream!, iDOLM@STER, Yakuza, Linux, etc.
+- 🔭 Has studied C++, Java, and some webdesign (HTML, JS, PHP)
+
+
 <!--
 **WhippuGBP/WhippuGBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
